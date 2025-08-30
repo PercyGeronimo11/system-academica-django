@@ -1,1 +1,8 @@
-Sistema de gestión academica desarrollado con Django 4.2
+
+# Instalar django
+pip install django
+
+# Configuracion principal
+django-admin startproject config_app .
+
+
