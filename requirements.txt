@@ -1,0 +1,8 @@
+msqlclient
+django
+djangorestframework
+
+
+qrcode
+pillow 
+

@@ -1,8 +1,10 @@
+venv/scripts/activate
 
-# Instalar django
+
+## Instalar django
 pip install django
 
-# Configuracion principal
+## Configuracion principal
 django-admin startproject config_app .
 
 
